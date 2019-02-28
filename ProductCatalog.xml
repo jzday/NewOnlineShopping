@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<ConsoleCatalog>
+    <console id="Espoir">
+        <name>Espoir</name>
+        <price>499.99</price>
+        <image>Espoir.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="lois_caron">
+        <name>lois_caron</name>
+        <price>599.99</price>
+        <image>lois_caron.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="gucci">
+        <name>gucci</name>
+        <price>699.99</price>
+        <image>gucci.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="M2">
+        <name>M2</name>
+        <price>299.99</price>
+        <image>M2.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="MVMT">
+        <name>MVMT</name>
+        <price>399.99</price>
+        <image>MVMT.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="QVC">
+        <name>QVC</name>
+        <price>799.99</price>
+        <image>gucci.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Radiuz">
+        <name>Radiuz</name>
+        <price>499.99</price>
+        <image>Radiuz.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="shopclues">
+        <name>shopclues</name>
+        <price>199.99</price>
+        <image>shopclues.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="fitnessWatch">
+        <name>MTIOV</name>
+        <price>169.99</price>
+        <image>fitnessWatch.jpg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="TITAN">
+        <name>TITAN</name>
+        <price>429.99</price>
+        <image>TITAN.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+
+    <!-- Smart watches-->
+
+    <console id="A1">
+        <name>A1</name>
+        <price>149.99</price>
+        <image>A1.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="apple">
+        <name>apple</name>
+        <price>249.99</price>
+        <image>apple.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="bluetooth">
+        <name>bluetooth_watch</name>
+        <price>349.99</price>
+        <image>bluetooth.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Lenovo">
+        <name>Lenovo</name>
+        <price>79.99</price>
+        <image>Lenovo.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Samsung">
+        <name>Samsung</name>
+        <price>129.99</price>
+        <image>Samsung.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Snapdeal">
+        <name>Snapdeal</name>
+        <price>199.99</price>
+        <image>Snapdeal.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Sony">
+        <name>Sony</name>
+        <price>209.99</price>
+        <image>Sony.jpeg</image>
+        <manufacturer>Sbony</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="xiaomi">
+        <name>xiaomi</name>
+        <price>99.99</price>
+        <image>xiaomi.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Xiaomi2">
+        <name>Xiaomi2</name>
+        <price>109.99</price>
+        <image>Xiaomi2.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+    <console id="Y1">
+        <name>Y1</name>
+        <price>149.99</price>
+        <image>Y1.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
+        </accessories>
+    </console>
+
+
+
+
+    <!--headphone -->
+
+
+
+
+    <console id="Beoplay">
+        <name>Beoplay</name>
+        <price>249.99</price>
+        <image>Beoplay.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="Bose">
+        <name>Bose</name>
+        <price>249.99</price>
+        <image>Bose.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="JBL">
+        <name>JBL</name>
+        <price>249.99</price>
+        <image>JBL.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="JBL_White">
+        <name>JBL_White</name>
+        <price>249.99</price>
+        <image>JBL_White.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="KingSton">
+        <name>KingSton</name>
+        <price>249.99</price>
+        <image>KingSton.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="solo3_black">
+        <name>solo3_black</name>
+        <price>249.99</price>
+        <image>solo3_black.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+    <console id="solo3_white">
+        <name>solo3_white</name>
+        <price>249.99</price>
+        <image>solo3_white.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="sony_xm2">
+        <name>sony_xm2</name>
+        <price>249.99</price>
+        <image>sony_xm2.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="studio_red">
+        <name>studio_red</name>
+        <price>249.99</price>
+        <image>studio_red.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <console id="headphone">
+        <name>Apple solo3</name>
+        <price>259.99</price>
+        <image>headphone.jpg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
+        </accessories>
+    </console>
+
+    <!--Virtual Reality -->
+    <console id="vr1">
+        <name>vr1</name>
+        <price>199.99</price>
+        <image>vr1.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr2">
+        <name>vr2</name>
+        <price>299.99</price>
+        <image>vr2.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr3">
+        <name>vr3</name>
+        <price>399.99</price>
+        <image>vr3.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr4">
+        <name>vr4</name>
+        <price>259.99</price>
+        <image>vr4.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr5">
+        <name>vr5</name>
+        <price>379.99</price>
+        <image>vr5.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr6">
+        <name>vr6</name>
+        <price>239.99</price>
+        <image>vr6.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr7">
+        <name>vr7</name>
+        <price>429.99</price>
+        <image>vr7.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr8">
+        <name>vr8</name>
+        <price>179.99</price>
+        <image>vr8.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr9">
+        <name>vr9</name>
+        <price>699.99</price>
+        <image>vr9.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr10">
+        <name>vr10</name>
+        <price>99.99</price>
+        <image>vr10.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
+        </accessories>
+    </console>
+
+    <!--Pet Tracker -->
+
+    <console id="pt1">
+        <name>pt1</name>
+        <price>49.99</price>
+        <image>pt1.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt2">
+        <name>pt2</name>
+        <price>39.99</price>
+        <image>pt2.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt3">
+        <name>pt3</name>
+        <price>59.99</price>
+        <image>pt3.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt4">
+        <name>pt4</name>
+        <price>79.99</price>
+        <image>pt4.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt5">
+        <name>pt5</name>
+        <price>39.99</price>
+        <image>pt5.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt6">
+        <name>pt6</name>
+        <price>89.99</price>
+        <image>pt6.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+    <console id="pt7">
+        <name>pt7</name>
+        <price>29.99</price>
+        <image>pt7.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt8">
+        <name>pt8</name>
+        <price>89.99</price>
+        <image>pt8.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt9">
+        <name>pt9</name>
+        <price>49.99</price>
+        <image>pt9.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt10">
+        <name>pt10</name>
+        <price>49.99</price>
+        <image>pt10.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
+        </accessories>
+    </console>
+
+
+</ConsoleCatalog>
+
+    <!-- laptop-->
+<TabletCatalog>
+    <tablet id="macbook">
+        <name>macbook pro</name>
+        <price>1689.99</price>
+        <image>macbook.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="AlienWare">
+        <name>AlienWare</name>
+        <price>1999.99</price>
+        <image>AlienWare.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>0</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="SurfaceBook">
+        <name>SurfaceBook</name>
+        <price>999.99</price>
+        <image>SurfaceBook.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Dell">
+        <name>Dell</name>
+        <price>699.99</price>
+        <image>Dell.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="HP">
+        <name>HP</name>
+        <price>599.99</price>
+        <image>HP.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>0</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+    <tablet id="iMAC">
+        <name>iMAC</name>
+        <price>1799.99</price>
+        <image>iMAC.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Lenovo">
+        <name>Lenovo</name>
+        <price>989.99</price>
+        <image>Lenovo.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>0</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="MSI">
+        <name>MSI</name>
+        <price>1879.99</price>
+        <image>MSI.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="SurfaceBook">
+        <name>SurfaceBook</name>
+        <price>899.99</price>
+        <image>SurfaceBook.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>0</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Samsung">
+        <name>Samsung</name>
+        <price>999.99</price>
+        <image>Samsung.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+</TabletCatalog>
+
+<!-- phones -->
+<GamesCatalog>
+
+<game id="iphone5">
+        <name>iphone5</name>
+        <price>270.99</price>
+        <image>iphone5.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="iphone6">
+        <name>iphone6</name>
+        <price>380.99</price>
+        <image>iphone6.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>0</condition>
+        <discount>15.0</discount>
+</game>
+
+    <game id="iphone8">
+        <name>iphone8</name>
+        <price>750.99</price>
+        <image>iphone8.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>0</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="iphonex">
+        <name>iphonex</name>
+        <price>999.99</price>
+        <image>iphonex.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>0</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="NokiaLumia">
+        <name>NokiaLumia</name>
+        <price>299.99</price>
+        <image>NokiaLumia.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>0</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="Note6">
+        <name>Note6</name>
+        <price>539.99</price>
+        <image>Note6.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>0</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="oppoV">
+        <name>oppoV</name>
+        <price>699.99</price>
+        <image>oppoV.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>0</condition>
+        <discount>15.0</discount>
+    </game>
+
+<game id="Samsung8">
+        <name>Samsung8</name>
+        <price>699.99</price>
+        <image>Samsung8.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="Samsung9">
+        <name>Samsung9</name>
+        <price>799.99</price>
+        <image>Samsung9.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+</game>
+
+    <game id="ZTE">
+        <name>ZTE</name>
+        <price>479.99</price>
+        <image>ZTE.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </game>
+
+</GamesCatalog>
+
+<!--VoiceAssistant-->
+
+<SpeakersCatalog>
+    <speaker id="speaker1">
+        <name>speaker1</name>
+        <price>279.99</price>
+        <image>speaker1.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker2">
+        <name>speaker2</name>
+        <price>379.99</price>
+        <image>speaker2.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker3">
+        <name>speaker3</name>
+        <price>179.99</price>
+        <image>speaker3.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker4">
+        <name>speaker4</name>
+        <price>239.99</price>
+        <image>speaker4.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker5">
+        <name>speaker5</name>
+        <price>219.99</price>
+        <image>speaker5.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+
+    <speaker id="speaker6">
+        <name>speaker6</name>
+        <price>379.99</price>
+        <image>speaker6.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker7">
+        <name>speaker7</name>
+        <price>79.99</price>
+        <image>speaker7.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker8">
+        <name>speaker8</name>
+        <price>29.99</price>
+        <image>speaker8.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+
+    <speaker id="speaker9">
+        <name>speaker9</name>
+        <price>89.99</price>
+        <image>speaker9.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker10">
+        <name>speaker10</name>
+        <price>139.99</price>
+        <image>speaker10.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>1</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+
+</SpeakersCatalog>
+
+    <!-- Accessory -->
+
+<AccessoryCatalog>
+
+    <accessory id="watch-accessory">
+        <name>watch-accessory</name>
+        <price>9.99</price>
+        <image>watch-accessory.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="watch-accessory1">
+        <name>watch-accessory</name>
+        <price>19.99</price>
+        <image>watch-accessory.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="watch-accessory2">
+        <name>watch-accessory2</name>
+        <price>5.99</price>
+        <image>watch-accessory2.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="watch-accessory3">
+        <name>watch-accessory3</name>
+        <price>6.99</price>
+        <image>watch-accessory.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="watch-accessory4">
+        <name>watch-accessory4</name>
+        <price>8.99</price>
+        <image>watch-accessory4.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="phone-accessory1">
+        <name>phone-accessory1</name>
+        <price>9.99</price>
+        <image>phone-accessory1.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="phone-accessory2">
+        <name>phone-accessory2 </name>
+        <price>9.99</price>
+        <image>phone-accessory2.jpeg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+
+    <accessory id="headphone-accessory">
+        <name>headphone-accessory</name>
+        <price>19.99</price>
+        <image>headphone-accessory.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="headphone-accessory1">
+        <name>headphone-accessory</name>
+        <price>29.99</price>
+        <image>headphone-accessory.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="vr-accessory">
+        <name>vr-accessory</name>
+        <price>19.99</price>
+        <image>vr-accessory.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="vr-accessory2">
+        <name>vr-accessory2</name>
+        <price>29.99</price>
+        <image>vr-accessory2.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="vr-accessory3">
+        <name>vr-accessory3</name>
+        <price>39.99</price>
+        <image>vr-accessory3.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+    <accessory id="pt-accessory1">
+        <name>pt-accessory1</name>
+        <price>89.99</price>
+        <image>pt-accessory1.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+    <accessory id="pt-accessory2">
+        <name>pt-accessory2</name>
+        <price>89.99</price>
+        <image>pt-accessory2.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>1</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+  
+
+</AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>
